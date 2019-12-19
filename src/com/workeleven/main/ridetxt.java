@@ -23,7 +23,7 @@ public class ridetxt {
         return result.toString();
     }
 
-    public static void main(String[] args){
+       public static void main(String[] args){
         File file = new File("C:\\Users\\言\\Desktop\\java 作业\\work\\src\\com\\workeleven\\toride"+".txt");
         System.out.println(Ridetxt(file));
     }

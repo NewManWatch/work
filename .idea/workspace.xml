@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5d2b95-4875-41e1-be30-1b6248b41741" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/.idea/workSocket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/SocketKHD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/SocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/fwq.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/khd.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/khdhead.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/ok.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/open.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/客户端ping服务器.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workSocket/SocketThreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workSocket/实验报告截图/dxc.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/1.2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/2.1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/Adminmenu.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/LoginViol.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/ride.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workthrGUI/jtu/userbuidle.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/work/com/workeleven/writertxt/writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/work/com/workeleven/writertxt/writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/workSocket/SocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/workSocket/SocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/workeleven/main/ridetxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/workeleven/main/ridetxt.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,6 +127,9 @@
       <updated>1576574999515</updated>
       <workItem from="1576575003243" duration="4005000" />
       <workItem from="1576579874112" duration="3369000" />
+      <workItem from="1576641941784" duration="1195000" />
+      <workItem from="1576654241180" duration="1588000" />
+      <workItem from="1576765884648" duration="3398000" />
     </task>
     <servers />
   </component>

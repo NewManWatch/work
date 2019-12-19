@@ -1,18 +1,16 @@
 package com.workSocket;
+import com.workSocket.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import java.net.ConnectException;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.UnknownHostException;
-/*    @autor NewManWatch
-	  @Time 2019-12-17 22:14:35
-	  @param work：socket半双工通讯服务器
-     */
-public class SocketServer {
-    public static void main(String[] args) throws IOException {
+
+public class SocketThreak extends Thread{
+    @Override
+    public void run() {
         int clidnPort = 8888;
         try {
             ServerSocket serverSocket= new ServerSocket(clidnPort);
@@ -35,9 +33,10 @@ public class SocketServer {
                 String re=br2.readLine();
                 pw.println(re);
             }
-     /* 该Socket部分参考CSDN博主「passtheworld」的原创文章，*/
-     /*  原文链接：https://blog.csdn.net/qq_25134469/article/details/51420532*/
+
         } catch (UnknownHostException e){
+            e.printStackTrace();
+        }catch (IOException e){
             e.printStackTrace();
         }
     }
